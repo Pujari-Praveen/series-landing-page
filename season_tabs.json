@@ -98,7 +98,7 @@
       "id": "recommended-episodes",
       "title": "Recommended Episodes",
       "type": {
-        "value": "recommended-episodes
+        "value": "recommended-episodes"
       },
       "extensions": {
       }
