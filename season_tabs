@@ -1,0 +1,107 @@
+{
+  "id": "KlFlsAns",
+  "title": "Better Together",
+  "entry": [
+    {
+      "id": "season-1",
+      "title": "Season 1",
+      "type": {
+        "value": "seasons"
+      },
+      "extensions": {
+        "season_number": 1,
+        "seriesId": "KlFlsAns",
+        "seasonFilter": "seasonNumber:1"
+      }
+    },
+    {
+      "id": "season-2",
+      "title": "Season 2",
+      "type": {
+        "value": "seasons"
+      },
+      "extensions": {
+        "season_number": 2,
+        "seriesId": "KlFlsAns",
+        "seasonFilter": "seasonNumber:2"
+      }
+    },
+    {
+      "id": "season-3",
+      "title": "Season 3",
+      "type": {
+        "value": "seasons"
+      },
+      "extensions": {
+        "season_number": 3,
+        "seriesId": "KlFlsAns",
+        "seasonFilter": "seasonNumber:3"
+      }
+    },
+    {
+      "id": "season-4",
+      "title": "Season 4",
+      "type": {
+        "value": "seasons"
+      },
+      "extensions": {
+        "season_number": 4,
+        "seriesId": "KlFlsAns",
+        "seasonFilter": "seasonNumber:4"
+      }
+    },
+    {
+      "id": "season-5",
+      "title": "Season 5",
+      "type": {
+        "value": "seasons"
+      },
+      "extensions": {
+        "season_number": 5,
+        "seriesId": "KlFlsAns",
+        "seasonFilter": "seasonNumber:5"
+      }
+    },
+    {
+      "id": "season-6",
+      "title": "Season 6",
+      "type": {
+        "value": "seasons"
+      },
+      "extensions": {
+        "season_number": 6,
+        "seriesId": "KlFlsAns",
+        "seasonFilter": "seasonNumber:6"
+      }
+    },
+    {
+      "id": "season-7",
+      "title": "Season 7",
+      "type": {
+        "value": "seasons"
+      },
+      "extensions": {
+        "season_number": 7,
+        "seriesId": "KlFlsAns",
+        "seasonFilter": "seasonNumber:7"
+      }
+    },
+    {
+      "id": "about-the-show",
+      "title": "About the Show",
+      "type": {
+        "value": "about-the-show"
+      },
+      "extensions": {      }
+    },
+    {
+      "id": "recommended-episodes",
+      "title": "Recommended Episodes",
+      "type": {
+        "value": "recommended-episodes
+      },
+      "extensions": {
+      }
+    }
+  ]
+}
