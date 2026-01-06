@@ -92,7 +92,9 @@
       "type": {
         "value": "about-the-show"
       },
-      "extensions": {      }
+      "extensions": {
+        "mediaid": "rwmBLprP"
+      }
     },
     {
       "id": "recommended-episodes",
@@ -101,6 +103,8 @@
         "value": "recommended-episodes"
       },
       "extensions": {
+        "mediaid": "rwmBLprP"
+        "seriesid": "nRtc6X4I"
       }
     }
   ]
